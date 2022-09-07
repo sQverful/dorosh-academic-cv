@@ -2,17 +2,17 @@
 
 **Dorosh Academic CV** is LaTeX template CV that was build according to requirements of University of Waterloo. You can use this template for your own purposes
 
-**Source** this template based on open source project [Awesome CV](https://github.com/posquit0/Awesome-CV)
+**Sources:** this template based on open source project [Awesome CV](https://github.com/posquit0/Awesome-CV)
 
 ## Preview
 
 #### Résumé
 
-You can see [PDF](https://raw.githubusercontent.com/sQverful/dorosh-academic-cv/main/.github/assets/Dorosh_Academic_CV.pdf)
+You can see [PDF](/.github/assets/Dorosh_Academic_CV.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/sQverful/dorosh-academic-cv/main/.github/assets/Dorosh_Academic_CV-0.png)](https://raw.githubusercontent.com/sQverful/dorosh-academic-cv/main/.github/assets/Dorosh_Academic_CV.pdf)  | [![Résumé](https://raw.githubusercontent.com/sQverful/dorosh-academic-cv/main/.github/assets/Dorosh_Academic_CV-1.png)](https://raw.githubusercontent.com/sQverful/dorosh-academic-cv/main/.github/assets/Dorosh_Academic_CV.pdf) |
+| [![CV](/.github/assets/Dorosh_Academic_CV-0.png)](/.github/assets/Dorosh_Academic_CV.pdf)  | [![CV](/.github/assets/Dorosh_Academic_CV-1.png)](/.github/assets/Dorosh_Academic_CV.pdf) |
 
 
 ## How to Use
