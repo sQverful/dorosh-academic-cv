@@ -12,7 +12,7 @@ You can see [PDF](/.github/assets/Dorosh_Academic_CV.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| [![CV](/.github/assets/Dorosh_Academic_CV-0.png)](/.github/assets/Dorosh_Academic_CV.pdf#page=1)  | [![CV](/.github/assets/Dorosh_Academic_CV-1.png)](/.github/assets/Dorosh_Academic_CV.pdf#page=2) |
+| [![CV](/.github/assets/Dorosh_Academic_CV-0.png)](/.github/assets/Dorosh_Academic_CV.pdf)  | [![CV](/.github/assets/Dorosh_Academic_CV-1.png)](/.github/assets/Dorosh_Academic_CV.pdf) |
 
 
 ## How to Use
